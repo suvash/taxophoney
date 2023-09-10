@@ -4,7 +4,7 @@ GPT (Decoder only Transformer - from scratch) generated fake/phoney taxonomies, 
 
 ## Requirements
 
-- Pytorch (with CUDA support - for reasonably short training runs)
+- Pytorch - 1.12.1+cu116 (with CUDA support - for reasonably short training runs)
 
 
 ## Quick training results
